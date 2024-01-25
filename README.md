@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Building a Drag & Drop Trello Board
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This repo is for learning purposes in order to dig in with drag & drop stuff in order to apply it in production real world apps.
+
+Mostly the same as seen in the course with a few differences in configuration and project setup like adding ESLint, Prettier and some settings and extensions recommendations for VSCode.
+
+Scaffolding done with [Nuxt 3](https://nuxt.com/docs/getting-started/introduction).
 
 ## Setup
 
@@ -20,6 +24,7 @@ yarn install
 bun install
 ```
 
+🧑🏻‍💻 For a better DX remember to install recommended extension which should be suggested by VSCode (as we have a *.vscode/extensions.json* file)
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
@@ -71,5 +76,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
