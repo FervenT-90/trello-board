@@ -22,5 +22,6 @@
   "dependencies": {
     "@vueuse/nuxt": "^10.7.2",
     "nanoid": "^5.0.4"
-  }
+  },
+  "version": "0.0.1"
 }
