@@ -11,3 +11,8 @@ export interface Task {
   title: string;
   createdAt: Date;
 }
+
+export enum DragHandleSizes {
+  NORMAL,
+  SMALL,
+}
